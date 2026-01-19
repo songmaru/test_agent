@@ -1,0 +1,12 @@
+TODO:
+- search_files 성능 개선 (ripgrep 사용)
+- large file chunking 적용
+- citation 포맷 통일
+
+BUG:
+- 모델이 가끔 JSON 포맷을 어김
+- search 결과가 너무 많으면 요약이 약해짐
+
+IDEA:
+- 이미지 입력도 지원하는 에이전트로 확장
+- qwen3-vl 모델 라우팅
